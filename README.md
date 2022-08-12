@@ -3,7 +3,7 @@
 This repository contains the materials I use for the course ```Knowledge Based Systems``` at the University of Duisburg-Essen. 
 This is a master course. So it requiers students to know basics progamming skills and knowledge about foundations of AI. 
 
-** Please give the repo a star ⭐ (click the star button on the top-right corner of the page) to this repo and follow my github account to get notification once I release a new project.**
+**Please give the repo a star ⭐ (click the star button on the top-right corner of the page) to this repo and follow my github account to get notification once I release a new project.**
 
 This course is taught by [Mohsen Mesgar](https://mohsen-mesgar.io).
 
